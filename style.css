@@ -65,7 +65,7 @@ h2{
 	display: flex;
 	flex-flow: row;
 	background-color: white;
-	border-radius: 3px;
+	border-radius: 0px;
 	box-shadow: 0 2px 5px -3px #e1e1e1;
 	margin-top: 18px;
 	padding: 25px;
